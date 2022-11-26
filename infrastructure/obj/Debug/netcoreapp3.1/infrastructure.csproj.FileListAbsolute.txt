@@ -1,0 +1,16 @@
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.deps.json
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.dll
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.pdb
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.AssemblyReference.cache
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfoInputs.cache
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfo.cs
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CoreCompileInputs.cache
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.dll
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.pdb
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.runtimeconfig.json
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.runtimeconfig.dev.json
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\core.dll
+D:\.Net\PortFolio\infrastructure\bin\Debug\netcoreapp3.1\core.pdb
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CopyComplete
+D:\.Net\PortFolio\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.genruntimeconfig.cache
